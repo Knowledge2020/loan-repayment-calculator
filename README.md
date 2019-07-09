@@ -70,3 +70,20 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+Example of props: {...}
+
+    valueD={24}  - duration of loan in months , default - 24
+    stepD={1}  - step of duration of loan slider in months, default - 1
+    maxD: 72    - max value of duration of loan slider in moths , default - 72
+    minD: 1    - min value of duration of loan slider in moths , default - 1
+    valueA={2000}  - amount of loan in currancy choosen , default - $2000
+    stepA={100} - step of amount of loan slider in currancy choosen , default - $100
+    maxA={10000}   - max value  of amount of loan slider in currancy choosen , default - $10000
+    minA={100}   - min value of duration of loan slider in moths , default - 12
+    
+    APR DEPENDS on CREDIT HIOSTORY, YOU CAN SET TO YOUR OWN RATE
+    
+    APR1={25}  in % 
+    
+    currancy={$},   - currancy , default $
