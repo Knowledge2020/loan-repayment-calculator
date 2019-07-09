@@ -1,3 +1,7 @@
+Loan calculator component build with React
+
+![alt text](https://github.com/Knowledge2020/loan-repayment-calculator/blob/master/pic.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
